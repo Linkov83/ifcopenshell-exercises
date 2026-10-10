@@ -1,3 +1,2 @@
-ifcopenshell
-numpy
-networkx
+numpy==2.5.3
+networkx==3.7
